@@ -44,7 +44,8 @@ Collected data includes URLs, parameters, emails, IPs, subdomains, technologies,
 
 Clone the repository, install dependencies, and run:
 
-git clone https://github.com/Boltx099/ParamSpecter-Crawler
+git clone  https://github.com/Boltx099/ParamSpecter-Crawler.git
+cd ParamSpecter-Crawler
 cd ParamSpecter  
 pip install -r requirements.txt  
 
