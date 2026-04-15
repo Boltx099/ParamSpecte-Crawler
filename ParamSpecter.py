@@ -53,6 +53,7 @@ BANNER = f"""
   ██║     ██║  ██║██║  ██║██║  ██║██║ ╚═╝ ██║███████╗██║  ██║███████╗███████╗   ██║   ███████╗██║  ██║
   ╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝╚══════╝╚═╝  ╚═╝╚══════╝╚══════╝   ╚═╝   ╚══════╝╚═╝  ╚═╝
 {C.RESET}{C.GRAY}  ParamSpecter - Advanced Recon Crawler for Bug Bounty & Security Research
+{C.BOLD}{C.CYAN}  Created by Boltx{C.RESET}
 {C.RED}{'─'*90}{C.RESET}
 """
 
