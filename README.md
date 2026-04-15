@@ -43,12 +43,15 @@ Collected data includes URLs, parameters, emails, IPs, subdomains, technologies,
 ## Installation, Requirements, Usage and Options
 
 Clone the repository, install dependencies, and run:
-
+```bash
 git clone  https://github.com/Boltx099/ParamSpecter-Crawler.git
+
 cd ParamSpecter-Crawler
 cd ParamSpecter  
-pip install -r requirements.txt  
+pip install -r requirements.txt
 
+python setup.py install  
+```
 Requirements:
 
 requests>=2.31.0  
