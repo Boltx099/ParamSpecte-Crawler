@@ -91,6 +91,7 @@ This function extracts:
 ParamSpecter extracts JavaScript files from HTML:
 
 <script src="...">
+  
 
 Then downloads and scans them for:
 
